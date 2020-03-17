@@ -1,4 +1,4 @@
 # MaxAnder.lan CMS
 ## Русская документация для MaxAnder.lan CMS
-###Основы
+### Основы
 * [Правила именования сущностей](entity_naming_rules.md)
